@@ -6,5 +6,5 @@
 - First, invite this bot to guild A and guild B. Then, send "!!send invite all" to guild B to invite all members from guild A to guild B. Magic!!
 
 ## Commands:
-"!!help" : to seek your guidance.
-"!!send invite all" : to invite all.
+- "!!help" : to seek your guidance.
+- "!!send invite all" : to invite all.
